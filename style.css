@@ -13,7 +13,7 @@ header{
     width: 850px;
     background-color:#CCFFFF;
     margin: 0 auto;
-    background-image: url('back.jpg');
+    background-image: url('./img/back.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;   
