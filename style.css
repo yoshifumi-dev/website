@@ -1,0 +1,133 @@
+* {
+	border:0px solid #000;
+	
+}
+
+body{
+   
+    background-color:#999999;
+}
+header{
+    height: 300px;
+    
+    width: 850px;
+    background-color:#CCFFFF;
+    margin: 0 auto;
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;   
+}
+main{
+    height: 1100px;
+    width: 850px;
+    background-color:#FFEEFF;
+    margin: auto;
+
+}
+.main_01{
+	width: 680px;
+    margin:5px auto;
+    padding:0 80px;
+    padding-top: 30px;
+}
+	
+
+.main_02{
+	width: 240px;
+	height:40px;
+	
+	display:table-cell;
+	
+}
+.main_03{
+	width: 240px;
+	height:40px;
+	
+	display:table-cell;
+}
+.main_04{
+	width: 240px;
+	height:40px;
+	
+	display:table-cell;
+}
+/*　ログインボタンtext*/
+#text {
+    font-size: 20px;
+}
+
+
+.button {
+	margin: 15px;
+    height: 25px;
+	background-color:pink;
+	border-radius: 35px;
+	text-align: center;
+}
+.btn {
+  display: inline-block;
+  cursor: pointer;
+  padding: 12px 80px;
+  background-color: #5dca88;
+  box-shadow: 0px 5px #279C56;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 12px;
+}
+
+.btn:active {
+  position: relative;
+  top: 5px;
+  box-shadow: none;
+}
+.mail_box{
+	width: 300px;
+	height:40px;
+	
+    margin-left: 70px;
+	
+}
+
+footer{
+    height: 200px;
+    width: 850px;
+    background-color:#C2EEFF;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+}
+h1 {
+    color:red;
+    font-size: 40px;
+    text-align: center;
+   
+}
+.Photo {
+    
+    width: 800px;
+    padding: 0 20px;
+}
+.phot {
+	width:800px;
+	margin: auto;
+}
+.photo_1 {
+	height:200px;
+	max-width: 200px;
+    padding: 5px 10px;
+    border-radius: 35px;
+	
+}
+ul {
+	list-style: none;
+	margin: 0;
+}
+.photo_box {
+	float :left;
+	padding-top: 20px;
+	text-align: center;
+	width: 240px;
+}
+
+
